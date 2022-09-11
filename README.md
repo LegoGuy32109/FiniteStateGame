@@ -1,5 +1,5 @@
 # Josh's Finite State Game
-# Please [play the game here](https://pages.github.iu.edu/joshhale/WebFiniteStateGame/) first before I spoil it, it's great ;)
+# Please [play the game here](https://legoguy32109.github.io/FiniteStateGame/) first before I spoil it, it's great ;)
 # Ok you played it, here's how I did it
 This is a game where the player traverses the world through choices and has a variety of endings, but you knew that already.
 
