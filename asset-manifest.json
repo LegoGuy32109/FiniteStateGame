@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/joshhale/WebFiniteStateGame/static/css/main.073c9b0a.css",
-    "main.js": "/joshhale/WebFiniteStateGame/static/js/main.df2a326c.js",
-    "index.html": "/joshhale/WebFiniteStateGame/index.html",
-    "main.073c9b0a.css.map": "/joshhale/WebFiniteStateGame/static/css/main.073c9b0a.css.map",
-    "main.df2a326c.js.map": "/joshhale/WebFiniteStateGame/static/js/main.df2a326c.js.map"
+    "main.css": "/FiniteStateGame/static/css/main.073c9b0a.css",
+    "main.js": "/FiniteStateGame/static/js/main.df2a326c.js",
+    "index.html": "/FiniteStateGame/index.html",
+    "main.073c9b0a.css.map": "/FiniteStateGame/static/css/main.073c9b0a.css.map",
+    "main.df2a326c.js.map": "/FiniteStateGame/static/js/main.df2a326c.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
